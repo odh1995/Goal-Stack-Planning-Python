@@ -1,0 +1,4 @@
+Goal Stack Planning
+Path found for ['ON(A,B)', 'ON(B,C)', 'ONTABLE(C)', 'ONTABLE(D)', 'CLEAR(A)', 'CLEAR(D)', 'ONTABLE(E)', 'CLEAR(E)'] to ['ON(D,C)', 'CLEAR(D)', 'ON(C,B)', 'ON(B,A)', 'ONTABLE(E)', 'ONTABLE(A)', 'CLEAR(E)']
+Number of steps required is : 10Steps required are: ['UNSTACK(A,B)', 'PUTDOWN(A)', 'UNSTACK(B,C)', 'PUTDOWN(B)', 'PICKUP(B)', 'STACK(B,A)', 'PICKUP(C)', 'STACK(C,B)', 'PICKUP(D)', 'STACK(D,C)']
+Time taken = 0.0s
